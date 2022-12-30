@@ -5,10 +5,10 @@
   "private": true,
   "dependencies": {
     "@babel/core": "^7.2.2",
-    "babel-loader": "^8.0.5",
+    "babel-loader": "^8.3.0",
     "brfs": "^2.0.2",
     "eslint": "^5.12.1",
-    "eslint-loader": "^2.1.1",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-react": "^7.11.1",
     "three": "^0.99.0"
   },
@@ -17,8 +17,8 @@
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.15.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
-    "webpack": "^4.27.1",
-    "webpack-cli": "^3.1.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-glsl-loader": "^1.0.1"
   },
   "scripts": {
