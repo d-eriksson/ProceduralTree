@@ -18,7 +18,7 @@
     "eslint-plugin-import": "^2.15.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "webpack": "^4.27.1",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.3.12",
     "webpack-glsl-loader": "^1.0.1"
   },
   "scripts": {
